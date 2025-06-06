@@ -1,0 +1,9 @@
+torch
+torchaudio
+transformers
+pyannote.audio
+whisperx
+faster-whisper
+numpy
+scipy
+pydub
